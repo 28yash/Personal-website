@@ -1,0 +1,133 @@
+div{
+  background-color: #FFF8F3;
+}
+
+.top-container{
+  background-color: #D3DEDC;
+}
+
+.h3{
+  font-size: 2.5rem;
+  color: #1C6DD0;
+}
+
+h1{
+  color: #7C99AC;
+  text-align: center;
+  margin-top: 100px;
+  font-size: 70px;
+}
+p{
+  color : #1C6DD0;
+}
+body{
+  margin : 0;
+  text-align: center;
+  font-family: Stick , sans-serif;
+}
+
+.top-cloud{
+  position:relative;
+  top:110px;
+  left:218px;
+}
+
+.mountain{
+  height:200px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left:450px;
+}
+
+.dent{
+  text-decoration:underline;
+}
+
+.top{
+  position:relative;
+  top: 100px;
+  left: 280px;
+}
+h2{
+  color: #FED1EF;
+  font-weight: normal;
+}
+h3{
+  color: #FED1EF;
+}
+a:link{
+  color:#11999E;
+}
+a:hover{
+  color: grey;
+}
+a:visited{
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: left;
+  line-height: 2;
+}
+
+.dhoni{
+  float: left;
+  padding: 4%;
+}
+.unknown{
+  float: right;
+  padding: 4%;
+}
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  font-family: Stick , sans-serif;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #9e2c9e;
+  background-image: -webkit-linear-gradient(top, grey, #bf417a);
+  background-image: -moz-linear-gradient(top, grey, #bf417a);
+  background-image: -ms-linear-gradient(top,grey, #bf417a);
+  background-image: -o-linear-gradient(top,grey, #bf417a);
+  background-image: linear-gradient(to bottom, grey, #bf417a);
+  text-decoration: none;
+}
+
+.com{
+  padding: 30px;
+}
+.bottom-container{
+  padding: 20px;
+}
+
+a{
+  margin: auto 20px auto 20px;
+  text-decoration: none;
+}
+
+hr{
+  border: none;
+  border-top: 5px dotted;
+  color:grey;
+  background-color:none;
+  height: 2px;
+  width: 5%;
+}
